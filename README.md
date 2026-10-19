@@ -1,2 +1,3 @@
-# captain-gifts-web
-小鸡蛋福利站公开网页；业务数据由独立云函数保护。
+# 小鸡蛋福利站公开页面资源
+
+这里仅包含可公开访问的网页构建产物，不包含账号、订单、密码或数据库。网站入口：https://hiyunfei3-crypto.github.io/captain-gifts-web/
